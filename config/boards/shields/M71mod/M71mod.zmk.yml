@@ -1,8 +1,8 @@
 file_format: "1"
-id: nibble
-name: Nibble
+id: m71mod
+name: M71mod
 type: shield
-url: https://nullbits.co/nibble/
+url: 
 requires: [pro_micro]
 features:
   - keys
