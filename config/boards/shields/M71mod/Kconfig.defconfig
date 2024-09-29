@@ -1,7 +1,7 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_NIBBLE
+if SHIELD_M71MOD
 
 config ZMK_KEYBOARD_NAME
     default "M71mod"
