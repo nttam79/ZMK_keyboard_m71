@@ -18,5 +18,5 @@
 #
 ---
 include:
-  - board: nrfmicro
-    shield: M71mod
+  - board: nice_nano_v2
+    shield: settings_reset
