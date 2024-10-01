@@ -13,7 +13,11 @@
 #include <layouts/common/60percent/ansi.dtsi>
 
 #include "nice_nano-pinctrl.dtsi"
-#include "arduino_pro_micro_pins.dtsi"
+/* #include "arduino_pro_micro_pins.dtsi"*/
+
+/ {
+    model = "nice!60";
+    compatible = "nice,60";
 
 / {
     model = "nice!nano";
