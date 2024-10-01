@@ -4,7 +4,7 @@
 if BOARD_NICE_NANO || BOARD_NICE_NANO_V2
 
 config ZMK_KEYBOARD_NAME
-    default "nice_nano"
+    default "nice!60"
 
 if USB_DEVICE_STACK
 
